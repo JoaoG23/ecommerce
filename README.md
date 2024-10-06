@@ -17,3 +17,8 @@ Notas:
 }
 
 ```
+
+Cria modulo puro
+  nest g co produto --flat --no-spec
+  nest g co pedido --flat --no-spec
+  nest g co db --flat --no-spec
